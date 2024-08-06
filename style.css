@@ -141,7 +141,7 @@ body[bw-theme='light'] {
      --comp-menu-favorite-toggle: var(--brand-light-300);
 
      --comp-menu: transparent;
-     --comp-menu-hover: hsl(var(--h), var(--s-grey), , 85%);
+     --comp-menu-hover: hsl(var(--h), var(--s-grey), 85%);
      --comp-menu-active: var(--brand-grey-800);
 
      --comp-tab: transparent;
